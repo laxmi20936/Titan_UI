@@ -1,10 +1,10 @@
 // import logo from './logo.svg';
-
+import {Section } from './components/Section'
 
 function App() {
   return (
     <div className="App">
-      <h1>hello worlld</h1>
+      <Section/>
      
     </div>
   );
