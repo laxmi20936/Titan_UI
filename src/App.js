@@ -5,9 +5,7 @@ import {First } from './components/First'
 function App() {
   return (
     <div className="App">
-      
       <Section/>
-
       <First/>
      
     </div>
